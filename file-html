@@ -1,0 +1,33 @@
+in this file we can write some code in html format
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Website</title>
+  <link rel="stylesheet" href="style.css">  </head>
+<body>
+  <header>
+    <h1>Welcome!</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>This is the main content area</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae justo non, ullamcorper malesuada quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+      <img src="image.jpg" alt="Placeholder image">
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 All Rights Reserved</p>
+  </footer>
+</body>
+</html>
